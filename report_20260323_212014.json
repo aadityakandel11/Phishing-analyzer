@@ -1,0 +1,59 @@
+{
+    "timestamp": "2026-03-23 21:20:14",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "\ud83d\udc8c\ud83d\udc91Maak Kennis Met hete Oekra\u00efense Singles-Zie Foto's!\ud83d\ude0d\ud83e\udd70",
+        "from": "Oekra\u00efense Schoonheden Online <>",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Fri, 01 Sep 2023 16:38:52 +0200"
+    },
+    "url_results": [
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        },
+        {
+            "error": "Failed to submit URL : 401"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        },
+        {
+            "error": "Failed to submit scan: 401"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

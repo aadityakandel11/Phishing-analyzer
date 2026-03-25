@@ -1,0 +1,78 @@
+{
+    "timestamp": "2026-03-24 19:23:39",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "Nachricht f\u00fcr dich!",
+        "from": "Fickfreundinfinden, jehd <service@stayfriends.de>",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Tue, 10 Oct 2023 10:36:56 +0200"
+    },
+    "url_results": [
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 29,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://104.194.232.184/media/9c811c12b0288ec.jpg",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 0,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://104.194.232.184/cl/775_md/31/68/75/23/2459859",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 0,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://104.194.232.184/oop/775_md/31/68/75/23/2459859",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 0,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/1999/xhtml",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "http://104.194.232.184/cl/775_md/31/68/75/23/2459859",
+            "screenshot": "https://urlscan.io/screenshots/019d22cc-8501-7599-942a-25b05c64296b.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://104.194.232.184/oop/775_md/31/68/75/23/2459859",
+            "screenshot": "https://urlscan.io/screenshots/019d22cd-4420-707d-89d1-cb00ee7d6dff.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

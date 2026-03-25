@@ -1,0 +1,75 @@
+{
+    "timestamp": "2026-03-24 19:54:05",
+    "overall_verdict": "MALICIOUS",
+    "email": {
+        "subject": "Sie geh\u00f6ren zu den Auserw\u00e4hlten f\u00fcr das Silvercrest Gewinnspiel",
+        "from": "Elektronik-Fachgesch\u00e4ft, jehd <service@stayfriends.de>",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Wed, 11 Oct 2023 12:48:19 +0200"
+    },
+    "url_results": [
+        {
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 29,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://easilett.com/cl/796_md/31/18/114/23/2459859",
+            "malicious": 2,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://easilett.com/media/cfb563ef79c71ee.png",
+            "malicious": 2,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://easilett.com/oop/796_md/31/18/114/23/2459859",
+            "malicious": 3,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "MALICIOUS"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "http://easilett.com/cl/796_md/31/18/114/23/2459859",
+            "screenshot": "https://urlscan.io/screenshots/019d22e4-f251-720d-9351-4c951a6660f7.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/1999/xhtml",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "Exception: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+            "url": "http://easilett.com/oop/796_md/31/18/114/23/2459859",
+            "verdict": "UNKNOWN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

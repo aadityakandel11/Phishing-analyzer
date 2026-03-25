@@ -1,0 +1,29 @@
+{
+    "timestamp": "2026-03-24 20:15:16",
+    "overall_verdict": "MALICIOUS",
+    "email": {
+        "subject": "Microsoft account unusual signin activity",
+        "from": "\"Microsoft account team\", _ <bcetj@4gmgb39bes.com>",
+        "to": "phishing@pot",
+        "reply_to": "assistant.supp0rt.acc0unt@gmail.com",
+        "date": "Mon, 09 Oct 2023 17:34:29 +0000"
+    },
+    "url_results": [
+        {
+            "url": "http://thebandalisty.com/track/o45327GzlZJ18708448ieKj1821750wgv67888UkWh176",
+            "malicious": 8,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "MALICIOUS"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://thebandalisty.com/track/o45327GzlZJ18708448ieKj1821750wgv67888UkWh176",
+            "verdict": "UNKNOWN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

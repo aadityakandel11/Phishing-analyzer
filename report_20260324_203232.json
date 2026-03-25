@@ -1,0 +1,251 @@
+{
+    "timestamp": "2026-03-24 20:32:32",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "The Startling Reality of Energy Inefficiency.",
+        "from": "\"Eco Wisdom: Elon\" <agrensophie@centromedicogallo.com>",
+        "to": "\"phishing@pot\" <phishing@pot>",
+        "reply_to": "None",
+        "date": "Tue, 10 Oct 2023 10:39:40 -0700"
+    },
+    "url_results": [
+        {
+            "url": "https://www.constantcontact.com/legal/customer-contact-data-notice",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://r20.rs6.net/tn.jsp?f",
+            "malicious": 1,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2022/08/Vegan-Chocolate-Chip-Cookies-668x798.jpg",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/05/amzon-mason-668x1074.webp",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/04/The-Best-Healthy-Apple-Cake-Bread-668x777.webp",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://visitor.constantcontact.com/do?p=un&amp;m",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/09/Vegan-Pumpkin-Protein-Shake-Recipe-668x911.webp",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://visitor.constantcontact.com/do?p=oo&amp;m",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.constantcontact.com/index.jsp?cc=nge&amp;rmc=VF21_ACE&amp;pn=iraffiliate&amp;nav",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/09/Baked-Apple-Cider-Donuts-668x871.webp",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://static.ctctcdn.com/letters/images/CTCTFooter/Logo_Blue_Orange_2022.png",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://cdn.shopify.com/s/files/1/0842/2342/6873/files/fhjghh.webp?v=1696547665",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://r20.rs6.net/on.jsp?ca",
+            "malicious": 1,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/09/Pumpkin-Chocolate-Cake.jpg",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://files.constantcontact.com/a6cdfcd9801/22f3ebdd-61f0-4c52-8294-876e44dd2efd.png?rdr=true",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://edrio.shop/wda/baeetfs.php?email=phishing@pot",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://files.constantcontact.com/a6cdfcd9801/4cd71fd4-dc19-4458-956d-0d17e2e33ea5.png?rdr=true",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "url": "https://www.constantcontact.com/legal/customer-contact-data-notice",
+            "screenshot": "https://urlscan.io/screenshots/019d2307-3dcb-779f-a60a-56f2eda29f14.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/1999/xhtml",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "https://r20.rs6.net/tn.jsp?f",
+            "screenshot": "https://urlscan.io/screenshots/019d2307-ceb6-70ed-b790-4699ff665623.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/05/amzon-mason-668x1074.webp",
+            "screenshot": "https://urlscan.io/screenshots/019d2308-5246-757d-bcc7-64efafd157de.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/04/The-Best-Healthy-Apple-Cake-Bread-668x777.webp",
+            "screenshot": "https://urlscan.io/screenshots/019d2308-d5ad-76c9-ad2d-11eddaa6b26c.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://visitor.constantcontact.com/do?p=un&amp;m",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/09/Vegan-Pumpkin-Protein-Shake-Recipe-668x911.webp",
+            "screenshot": "https://urlscan.io/screenshots/019d2309-65b1-7507-89cf-61b1dbc8a39e.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://visitor.constantcontact.com/do?p=oo&amp;m",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "http://www.constantcontact.com/index.jsp?cc=nge&amp;rmc=VF21_ACE&amp;pn=iraffiliate&amp;nav",
+            "screenshot": "https://urlscan.io/screenshots/019d2309-f449-743e-8599-ddbca2377f5c.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://chocolatecoveredkatie.com/wp-content/uploads/2023/09/Baked-Apple-Cider-Donuts-668x871.webp",
+            "screenshot": "https://urlscan.io/screenshots/019d230a-78b2-736a-9a51-222bdbe47ba9.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://cdn.shopify.com/s/files/1/0842/2342/6873/files/fhjghh.webp?v=1696547665",
+            "screenshot": "https://urlscan.io/screenshots/019d230a-fc72-739a-928d-271641c5e226.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://r20.rs6.net/on.jsp?ca",
+            "screenshot": "https://urlscan.io/screenshots/019d230b-7fe8-7728-9a2a-925a1c102bfc.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://files.constantcontact.com/a6cdfcd9801/22f3ebdd-61f0-4c52-8294-876e44dd2efd.png?rdr=true",
+            "screenshot": "https://urlscan.io/screenshots/019d230c-0217-7506-8489-978cbf8eda2b.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://edrio.shop/wda/baeetfs.php?email=phishing@pot",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "https://files.constantcontact.com/a6cdfcd9801/4cd71fd4-dc19-4458-956d-0d17e2e33ea5.png?rdr=true",
+            "screenshot": "https://urlscan.io/screenshots/019d230c-91a1-76b2-9d62-4de21c1f8a4e.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

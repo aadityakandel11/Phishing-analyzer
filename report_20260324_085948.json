@@ -1,0 +1,64 @@
+{
+    "timestamp": "2026-03-24 08:59:48",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "Nachricht f\u00fcr dich!",
+        "from": "Fgehen69, jehd <service@stayfriends.de>",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Sat, 30 Sep 2023 11:36:41 +0200"
+    },
+    "url_results": [
+        {
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://easilett.com/oop/455_md/31/4/1/23/2459859",
+            "malicious": 2,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://i.imgur.com/ZRttt0z.jpg",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://easilett.com/cl/455_md/31/4/1/23/2459859",
+            "malicious": 2,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "Failed to submit scan: 400"
+        },
+        {
+            "error": "Failed to submit scan: 400"
+        },
+        {
+            "error": "Failed to get result: 404"
+        },
+        {
+            "error": "Failed to get result: 404"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

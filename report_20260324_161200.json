@@ -1,0 +1,84 @@
+{
+    "timestamp": "2026-03-24 16:12:00",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "Das ist leider das letzte Mal",
+        "from": "EDEKA-Gutschein, <>, EDEKA-Gutschein, angebote@newsletter.baur.de",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Tue, 03 Oct 2023 15:12:38 +0200"
+    },
+    "url_results": [
+        {
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 29,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://imgur.com/cXbMi2q.jpg",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://stabrino.info/cl/4051_md/1995/724/1444/222/428764",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://stabrino.info/op/4051_md/1995/724/1444/222/428764",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://stabrino.info/oop/4051_md/1995/724/1444/222/428764",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 34,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 29,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://stabrino.info/cl/4051_md/1995/724/1444/222/428764",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://stabrino.info/op/4051_md/1995/724/1444/222/428764",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://stabrino.info/oop/4051_md/1995/724/1444/222/428764",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "http://www.w3.org/1999/xhtml",
+            "verdict": "UNKNOWN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

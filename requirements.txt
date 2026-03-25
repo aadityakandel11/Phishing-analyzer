@@ -1,0 +1,6 @@
+requests
+python-whois
+dnspython
+colorama
+tqdm
+python-dotenv

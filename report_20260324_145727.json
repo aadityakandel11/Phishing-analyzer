@@ -1,0 +1,53 @@
+{
+    "timestamp": "2026-03-24 14:57:27",
+    "overall_verdict": "MALICIOUS",
+    "email": {
+        "subject": "#rodrigofp: BNB",
+        "from": "#283676624 <Ref.283676624@qmhs.onmicrosoft.com>",
+        "to": "\"phishing@pot\"",
+        "reply_to": "None",
+        "date": "Sun, 01 Oct 2023 12:38:39 +0000"
+    },
+    "url_results": [
+        {
+            "url": "https://click.pstmrk.it/3/948344.com%2FFoot/ahc/L1iwAQ/AQ/d45f1fcb-a91d-43da-a506-886f5007ed02/1/oN1zx6oRmi?/rodrigofp32140393",
+            "malicious": 3,
+            "suspicious": 0,
+            "clean": 30,
+            "verdict": "MALICIOUS"
+        },
+        {
+            "url": "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://www.w3.org/1999/xhtml",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://click.pstmrk.it/3/948344.com%2FFoot/ahc/L1iwAQ/AQ/d45f1fcb-a91d-43da-a506-886f5007ed02/1/oN1zx6oRmi?/rodrigofp32140393",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://www.w3.org/1999/xhtml",
+            "verdict": "UNKNOWN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

@@ -1,0 +1,56 @@
+{
+    "timestamp": "2026-03-24 19:30:09",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "CLIENTE PRIME - BRADESCO LIVELO: Seu cart\u00e3o tem 92.990 pontos LIVELO expirando hoje!",
+        "from": "BANCO DO BRADESCO LIVELO <banco.bradesco@atendimento.com.br>",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Tue, 19 Sep 2023 18:35:49 +0000"
+    },
+    "url_results": [
+        {
+            "url": "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 32,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://blog1seguimentmydomaine2bra.me/",
+            "malicious": 0,
+            "suspicious": 0,
+            "clean": 34,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://fonts.gstatic.com",
+            "malicious": 1,
+            "suspicious": 0,
+            "clean": 31,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "error": "URLScan rejected URL (400)",
+            "url": "https://blog1seguimentmydomaine2bra.me/",
+            "verdict": "UNKNOWN"
+        },
+        {
+            "url": "https://fonts.gstatic.com",
+            "screenshot": "https://urlscan.io/screenshots/019d22d3-7602-773f-a31a-22c7d0bc847c.png",
+            "malicious": false,
+            "score": 0,
+            "categories": [],
+            "verdict": "CLEAN"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}

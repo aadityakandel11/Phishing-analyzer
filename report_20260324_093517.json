@@ -1,0 +1,44 @@
+{
+    "timestamp": "2026-03-24 09:35:17",
+    "overall_verdict": "CLEAN",
+    "email": {
+        "subject": "wir gratulieren Ihnen recht herzlich.",
+        "from": "\"Fressnapf Gutschein\", angebote@newsletter.baur.de",
+        "to": "phishing@pot",
+        "reply_to": "None",
+        "date": "Mon, 02 Oct 2023 13:05:15 +0200"
+    },
+    "url_results": [
+        {
+            "url": "http://fressnapf.theowensfamily.info/TlNid2tvUDVhUEp6R2hvNFd3VmZhTEV0aTJxWUdoNkJUcDRnRkhGUTZnbzBPV3M3R1V0TkZ5S245ZndHallUZDB2aU11L09YelN1U3JGZk5Fcy9QSlE9PQ__",
+            "malicious": 2,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "https://www.zupimages.net/up/23/39/6qbt.png",
+            "malicious": 1,
+            "suspicious": 0,
+            "clean": 33,
+            "verdict": "CLEAN"
+        },
+        {
+            "url": "http://fressnapf.theowensfamily.info/VEowamlleHVFRjRUbEVUeWRUeWNodmxiOGZWa3V0R0E2UGpkbGNENCtFUTExL1laTXpwbEdKWXlGU2NBazRCeUpUOFJuUmVYdkN6UkF1amFuTGpKMXc9PQ__",
+            "malicious": 1,
+            "suspicious": 0,
+            "clean": 34,
+            "verdict": "CLEAN"
+        }
+    ],
+    "urlscan_results": [
+        {
+            "error": "Failed to submit scan: 400"
+        },
+        {
+            "error": "Failed to submit scan: 400"
+        }
+    ],
+    "attachments": [],
+    "headers": {}
+}
